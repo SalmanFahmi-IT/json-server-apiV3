@@ -24,8 +24,8 @@
       "reference":"S-0001",
       "valide": false,
       "statut": "En cours",
-      "CodeTypeClient": "2",
-      "ChiffreAffaire": "800000",
+      "codeTypeClient": "2",
+      "chiffreAffaire": "800000",
       "montantFinancementHT": 100000,
       "natureBien": {
         "id": 0,
@@ -36,7 +36,7 @@
         "libelleCourt": "MATERIEL I",
         "categorieContrat": "CBM"
       },
-      "CodeNatureBien": "BT01",
+      "codeNatureBien": "BT01",
       "simulations": [
         {
           "taux": "MAD",
