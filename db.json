@@ -19,7 +19,8 @@
       "returnMessage": "",
       "returnCode": "0000"
     },
-    "simulationLibre":"id": 1,
+    "simulationLibre":{
+      "id": 1,
       "reference":"S-0001",
       "valide": false,
       "statut": "En cours",
